@@ -1,0 +1,11 @@
+/home/nuasep/Desktop/github-repo/dotnetapp/bin/Debug/netcoreapp2.1/dotnetapp.deps.json
+/home/nuasep/Desktop/github-repo/dotnetapp/bin/Debug/netcoreapp2.1/dotnetapp.runtimeconfig.json
+/home/nuasep/Desktop/github-repo/dotnetapp/bin/Debug/netcoreapp2.1/dotnetapp.runtimeconfig.dev.json
+/home/nuasep/Desktop/github-repo/dotnetapp/bin/Debug/netcoreapp2.1/dotnetapp.dll
+/home/nuasep/Desktop/github-repo/dotnetapp/bin/Debug/netcoreapp2.1/dotnetapp.pdb
+/home/nuasep/Desktop/github-repo/dotnetapp/obj/Debug/netcoreapp2.1/dotnetapp.csprojAssemblyReference.cache
+/home/nuasep/Desktop/github-repo/dotnetapp/obj/Debug/netcoreapp2.1/dotnetapp.csproj.CoreCompileInputs.cache
+/home/nuasep/Desktop/github-repo/dotnetapp/obj/Debug/netcoreapp2.1/dotnetapp.AssemblyInfoInputs.cache
+/home/nuasep/Desktop/github-repo/dotnetapp/obj/Debug/netcoreapp2.1/dotnetapp.AssemblyInfo.cs
+/home/nuasep/Desktop/github-repo/dotnetapp/obj/Debug/netcoreapp2.1/dotnetapp.dll
+/home/nuasep/Desktop/github-repo/dotnetapp/obj/Debug/netcoreapp2.1/dotnetapp.pdb
